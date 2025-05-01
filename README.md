@@ -28,16 +28,17 @@
 ## 📐 Design Process
 
 ### ✏️ Logo Design
-![Logo Design](https://github.com/user-attachments/assets/91e05fe1-8ffb-4555-92ef-d919ca434738)
-
+![Logo Design](https://github.com/user-attachments/assets/df690b56-b3b0-4a0a-b27e-ecf08e7d1038)
 
 ### 🧪 Low-Fidelity Wireframes  
 Initial wireframes outlining core structure and user flows.  
-![Low-Fidelity Screenshot]()
+![Low-Fidelity](https://github.com/user-attachments/assets/2485f0b8-7f27-42dc-b888-9a1fa4288f4d)
+
 
 ### 🎨 High-Fidelity UI Design  
 Final UI with a clean, minimal look focused on user engagement and simplicity.  
-![High-Fidelity Screenshot](https://github.com/user-attachments/assets/ff95a763-58f3-4bf3-b16b-aec688b58b65)
+![High-Fidelity ](https://github.com/user-attachments/assets/5a1507ac-b818-4275-96e3-48b0906a9b2e)
+
 
 
 ### 🔗 Explore the Full Designs on Figma
